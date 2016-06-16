@@ -1,5 +1,6 @@
 /*
 Alternating Characters Problem
+
 Shashank likes strings in which consecutive characters are different.
 For example, he likes ABABA, while he doesn't like ABAA.
 Given a string containing characters A and B only, he wants to change it into a string he likes.
